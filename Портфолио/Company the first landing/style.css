@@ -1,0 +1,370 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+  
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+.header {
+    background: url(images/img-header.jpg) no-repeat;
+    background-size: contain;
+    width: 1215px;
+    height: 900px;
+}
+
+.header-logo{
+    margin-left: 146px;
+    padding-top: 20px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+
+.nav{
+    list-style: none;
+    display: flex;
+    margin-left: 700px;
+    margin-top: -20px;
+}
+
+.nav a{
+    margin-right: 30px;
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+
+.main-text{
+    margin-left: 146px;
+    padding-top: 232px;
+    font-weight: 600;
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+}
+
+.sub-text{
+    margin-left: 146px;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+}
+
+.button-in{
+    display: inline-block;
+    background: #fff;
+    color: #000;
+    padding: 18px 65px;
+    border: none;
+    text-decoration: none;
+    font-size: 14px;
+}
+  
+.button {
+    margin: 24px;
+    margin-left: 146px;
+}
+
+
+.left-text{
+    margin-left: 146px;
+    float: left;
+}
+
+.paragraph{
+    color: #838383;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+}
+
+.title-h{
+    font-size: 64px;
+    font-family: 'Inter', sans-serif;
+}
+
+.prototypes{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.right-text{
+    margin-left: 600px;
+    width: 550px;
+}
+
+.first-paragraph{
+    font-family: 'Inter', sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.second-paragraph{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+
+.third-paragraph{
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+
+.video img{
+    width: 1000px;
+    height: 630px;
+    margin-left: 145px;
+}
+
+.video{
+    margin-top: 250px;
+}
+
+.bronze{
+    width: 500px;
+    height: 360px;
+    margin-left: 690px;
+    margin-top: -290px;
+}
+
+.metal{
+    width: 500px;
+    height: 360px;
+    margin-left: 146px;
+}
+
+.first-word{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #838383;
+    margin-left: 146px;
+    padding-bottom: 30px;
+}
+
+.second-words{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;   
+    font-weight: 400;
+    margin-left: 146px;
+    padding-bottom: 30px;
+}
+
+
+.button-up{
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    padding: 18px 65px;
+    border: none;
+    text-decoration: none;
+    font-size: 14px;
+    margin-left: 146px;
+}
+
+.main-text_one{
+    width: 570px;
+    padding-top: 222px;
+}
+
+.image-one img{
+    display: flex;
+}
+
+.main-text_one{
+    margin-bottom: 130px;
+}
+
+.second-word{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #838383;
+    margin-left: 146px;
+    padding-bottom: 30px;
+}
+
+.third-words{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;   
+    font-weight: 400;
+    margin-left: 146px;
+    padding-bottom: 30px;
+}
+
+.text{
+    margin-left: 545px;
+    width: 650px;
+    margin-top: -250px;
+}
+
+.main-text_two{
+    padding-bottom: 300px;
+}
+
+.name{
+    font-family: 'Inter', sans-serif;  
+    font-weight: 400;
+    font-size: 16px;
+    color: #838383;
+    margin-left: 146px;
+}
+
+.paragraph-one{
+    font-weight: 500;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1D1D1F;
+    width: 700px;
+    margin-left: 146px;
+    font-family: 'Inter', sans-serif;  
+}
+
+.NS{
+    font-family: 'Inter', sans-serif;  
+    font-size: 16px;
+    margin-left: 146px;
+}
+
+.commit{
+    padding-bottom: 250px;
+}
+
+.slyder img{
+    width: 1215px;
+    height: 900px;
+}
+
+.slyder{
+    padding-bottom: 250px;
+}
+
+hr{
+    width: 925px;
+}
+
+.hr{
+    padding-top: 20px;
+}
+
+.brand{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 146px;
+    padding-top: 10px;
+}
+
+.Quam{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 460px;
+    margin-left: 600px;
+    margin-top: -25px;
+}
+
+.web{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 146px;
+    padding-top: 20px;
+}
+
+.male{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 460px;
+    margin-left: 600px;
+    margin-top: -25px;
+}
+
+.dez{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 146px;
+    padding-top: 20px;
+}
+
+.cras{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 460px;
+    margin-left: 600px;
+    margin-top: -25px;
+}
+
+.str{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 146px;
+    padding-top: 20px;
+}
+
+.quam-two{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 460px;
+    margin-left: 600px;
+    margin-top: -25px;
+    padding-bottom: 200px;
+}
+
+footer{
+    background-color: #1D1D1F;
+    width: 1215px;
+    height: 250px;
+}
+
+.footer-logo{
+    margin-left: 146px;
+    padding-top: 32px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 30px;
+}
+
+.footer-text{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 146px;
+}
+
+.footer-right{
+    margin-left: 600px;
+    width: 570px;
+    margin-top: -155px;
+}
+
+.footer-text-two{
+    padding-top: 32px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
